@@ -1,4 +1,4 @@
-# sfgame scrapbook helper
+# SFGame Scrapbook Helper
 
 A firefox scrapbook helper extension for Shakes & Fidget. Useful if you don't have the holy grail yet. It will show you the maximum number of items you can get and name of the player (useful in arena screen)
 
@@ -8,7 +8,7 @@ It justs parse the data that is already loaded to you.
 ## How to use
 
 1. Install the extension
-   1. For now open [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox) in your address bar
+   1. For now open `about:debugging#/runtime/this-firefox` in your address bar
    2. Press `Load Temporary Add-on...`
    3. Open the provided `.zip` file
 2. Open your scrapbook so the tool can scan it
