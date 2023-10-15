@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Scrapbook Helper",
-    "version": "1.0",
+    "version": "1.1",
     "description": "SFGame scrapbook helper",
     "permissions": [
         "webRequest",
@@ -43,7 +43,8 @@
                 "*://*.sfgame.se/",
                 "*://*.sfgame.sk/",
                 "*://*.sfgame.tr/",
-                "*://*.sfgame.us/"
+                "*://*.sfgame.us/",
+                "*//sfgame.net/play"
             ],
             "js": [
                 "pageload.js"
