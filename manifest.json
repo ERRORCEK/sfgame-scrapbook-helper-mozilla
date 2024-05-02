@@ -44,7 +44,7 @@
                 "*://*.sfgame.sk/*",
                 "*://*.sfgame.tr/*",
                 "*://*.sfgame.us/*",
-                "*//sfgame.net/*"
+                "*://sfgame.net/*"
             ],
             "js": [
                 "pageload.js"
